@@ -59,3 +59,11 @@ With version control, it is possible to:
 - `git merge`: [to merge two branches]
 - `git checkout`: [Switches between branches]
 
+## My Unique Touch
+
+There are things that set me apart from others:
+
+-My passion is to become Singer
+-My hobbies contain singing,writing songs
+-I like to play Piano,Guitar ,Harmonium 
+-i prefer to make new musical compositions
