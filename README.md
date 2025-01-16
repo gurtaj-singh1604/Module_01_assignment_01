@@ -45,3 +45,17 @@ With version control, it is possible to:
 -Teamwork is improved when multiple users may work on the same project
 -A project can have independent branches created by users for autonomous development
 -To help with project documentation, descriptive annotations provide context and justifications for modifications.
+
+## Purpose of the following Git Commands
+
+- `git init`: [git init initializes a new git repositary]
+- `git status`: [git status displys the currently working directory]
+- `git add`: [git add stages new or modified files in directory]
+- `git commit`: [git commit records the changes repository]
+- `git push`: [transfer local contant to remote repository]
+- `git pull`: [pulls changes from remote repository and changes in local repository]
+- `git log`: [Depicts the history of commited history of repository]
+- `git branch`: [to make branch]
+- `git merge`: [to merge two branches]
+- `git checkout`: [Switches between branches]
+
