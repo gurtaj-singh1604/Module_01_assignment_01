@@ -36,3 +36,12 @@ no changes added to commit (use "git add" and/or "git commit -a")
 - `cd`: [cd stands for change directory]
 - `code`: [code stands for opening vscode]
 - `ls`: [ls stands for listing files in directories ]
+
+## Why Version Control is Important
+
+With version control, it is possible to:
+
+-It makes it simple to go back to previous versions
+-Teamwork is improved when multiple users may work on the same project
+-A project can have independent branches created by users for autonomous development
+-To help with project documentation, descriptive annotations provide context and justifications for modifications.
